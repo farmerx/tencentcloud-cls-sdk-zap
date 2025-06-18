@@ -1,4 +1,4 @@
-module github.com/albertbi/tencentcloud-cls-sdk-zap
+module github.com/farmerx/tencentcloud-cls-sdk-zap
 
 go 1.20
 
@@ -13,5 +13,5 @@ require (
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
-	google.golang.org/protobuf v1.27.1 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
