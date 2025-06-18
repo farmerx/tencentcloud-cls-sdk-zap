@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"time"
 
-	clszap "github.com/albertbi/tencentcloud-cls-sdk-zap"
+	clszap "github.com/farmerx/tencentcloud-cls-sdk-zap"
 	tencentcloud_cls_sdk_go "github.com/tencentcloud/tencentcloud-cls-sdk-go"
 	"go.uber.org/zap"
 )
